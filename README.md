@@ -60,4 +60,4 @@ kubehealth/
 **Shermatov Khamza**  
 Telegram: [@AllSaturn](https://t.me/AllSaturn)  
 Email: hamza.shermatov0504@gmail.com
-GitHub: https://github.com/Saturnnnnnnnnnnn# kubehealth
+GitHub: https://github.com/Saturnnnnnnnnnnn/kubehealth
